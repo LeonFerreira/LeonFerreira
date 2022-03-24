@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Ferreira.</h1>
 <h3 align="center">A passionate backend developer (and gamer) from Brazil!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonferreira&label=Profile%20views&color=0e75b6&style=flat" alt="leonferreira" /> </p>
 
