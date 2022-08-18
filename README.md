@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working to **improve my dev skills.**
 
-- 🌱 I’m currently learning **Laravel Framework.**
-
-- 🤝 I’m looking for help with **Laravel MVC and API's.**
+- 🌱 I’m currently learning **C# .NET**
 
 - 📫 How to reach me **ferreira.sleonardo@gmail.com**
 
